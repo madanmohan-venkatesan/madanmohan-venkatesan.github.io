@@ -1,43 +1,53 @@
-# vCard - Personal portfolio
+# Madanmohan Venkatesan — Personal Portfolio & Resume
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+![GitHub repo size](https://img.shields.io/github/repo-size/madanmohan-venkatesan/madanmohan-venkatesan.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-madanmohan--v-blue?logo=linkedin)](https://www.linkedin.com/in/madanmohan-v)
+[![GitHub](https://img.shields.io/badge/GitHub-madanmohan--venkatesan-black?logo=github)](https://github.com/madanmohan-venkatesan)
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+This is my personal portfolio and online resume — a fully responsive website built with HTML, CSS, and JavaScript. It showcases my professional experience, certifications, skills, and personal projects in the areas of Database Engineering, Data Engineering, Machine Learning, and GenAI.
 
-## Demo
+## 🌐 Live Site
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+👉 [madanmohan-venkatesan.github.io](https://madanmohan-venkatesan.github.io)
 
-## Prerequisites
+## 👤 About Me
 
-Before you begin, ensure you have met the following requirements:
+I am a **Site Reliability & Database Engineer** with 9+ years of experience managing IBM DB2 LUW environments, and a growing specialization in **Machine Learning, Data Engineering, and Cloud Platforms** (GCP, Azure, AWS).
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- 🎓 B.E. in Electronics and Communication Engineering
+- 🏆 GCP Certified Professional Machine Learning Engineer
+- 🏆 Microsoft Certified: Azure Data Scientist Associate
+- 🏆 IBM Db2 for LUW V11.x Foundations Certified
 
-## Installing vCard
+## 📂 Sections
 
-To install **vCard**, follow these steps:
+| Section | Description |
+|---------|-------------|
+| **About** | Introduction, services offered, and core competencies |
+| **Resume** | Education, certifications, work experience, and skills |
+| **Portfolio** | Personal projects across Machine Learning, Data Engineering, and GenAI |
+| **Blog** | Articles and writings on productivity and technology |
+| **Contact** | Ways to get in touch |
 
-Linux and macOS:
+## 🚀 Portfolio Projects
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+- **H&M Fashion Recommender System** — Netflix-inspired foundation model for fashion recommendations using PyTorch, Feast, and Streamlit
+- **AQI Predictor with FTI Pipeline** — End-to-end ML app forecasting city Air Quality Index using XGBoost, Feast, MLflow, and Streamlit
+- **Microsoft Malware Detection** — Multi-class malware classification using ensemble ML models on the Microsoft Malware dataset
+- **Sequential Testing with ASOS Dataset** — Statistical sequential testing applied to e-commerce A/B testing data
+- **Sequential Testing Framework (STF)** — Reusable framework for sequential hypothesis testing
+- **Chat with Your Own Document** — Local RAG application using Llama 3.2, LlamaIndex, and Qdrant vector store
 
-Windows:
+## 🛠️ Built With
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+- HTML5, CSS3, JavaScript
+- [vCard template](https://github.com/codewithsadee/vcard-personal-portfolio) by codewithsadee (MIT License)
 
-## Contact
+## 📬 Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+- 📧 [madanmohan.venkatesan@gmail.com](mailto:madanmohan.venkatesan@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/madanmohan-v)
+- 🐙 [GitHub](https://github.com/madanmohan-venkatesan)
 
 ## License
 
